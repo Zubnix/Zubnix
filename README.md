@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello there 🧔
 
-<!--
-**Zubnix/Zubnix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Erik De Rijcke and I'm a long time (10+ years) open-source software enthousiast. 
 
-Here are some ideas to get you started:
+🔭 Currently nearly all of my spare time is invested in [Greenfield](https://github.com/udevbe/greenfield). 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Greenfield is a cloud computing platform which allows you to run all of your applications distributed and made accessible in your browser:
+- Your windows: they come from the web.
+- Your desktops, your screens: they run on the web.
+
+You can find more information on the official [Greenfield website](https://www.greenfield.app)
+
+All sponsering will be used exclusively for the further development of [Greenfield](https://github.com/udevbe/greenfield).
