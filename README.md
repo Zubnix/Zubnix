@@ -15,5 +15,5 @@ You can find more information on the official [Greenfield website](https://www.g
 ### contact ❤️
 
 - 🐦 Twitter: https://twitter.com/FriedChicken
-- :-) IRC: #wayland on freenode
+- :-) IRC: #wayland on [oftc.net](https://www.oftc.net/)
 - ✉️ Email: derijcke dot erik at gmail dot com
