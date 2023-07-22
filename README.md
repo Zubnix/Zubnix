@@ -11,6 +11,7 @@ Greenfield is a cloud computer which allows you to run all of your applications 
 - Your desktops, your screens: they run on the web.
 
 You can find more information on the official [Greenfield website](https://www.greenfield.app)
+or have a look on how it all [began](https://wayouttheresoftware.blogspot.com/2023/07/some-history-about-greenfield.html). 
 
 ### contact ❤️
 
