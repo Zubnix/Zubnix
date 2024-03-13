@@ -16,5 +16,5 @@ or have a look on how it all [began](https://wayouttheresoftware.blogspot.com/20
 ### contact ❤️
 
 - 🐦 Twitter: https://twitter.com/FriedChicken
-- :-) IRC: #wayland on [oftc.net](https://www.oftc.net/)
+- :-) IRC: #wayland on [oftc.net](https://www.oftc.net/) nickname zubzub
 - ✉️ Email: derijcke dot erik at gmail dot com
