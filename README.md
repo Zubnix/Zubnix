@@ -1,6 +1,6 @@
 ### Hello there 🧔
 
-My name is Erik De Rijcke and I'm a long time (10+ years) open-source software enthousiast. 
+My name is Erik De Rijcke and I'm a long time (15+ years) open-source software enthousiast. 
 
 🔭 Currently nearly all of my spare time is invested in [Greenfield](https://github.com/udevbe/greenfield).
 
